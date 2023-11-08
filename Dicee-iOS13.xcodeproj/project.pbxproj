@@ -64,8 +64,8 @@
 				ADB0E00022AFA6090030352D /* ViewController.swift */,
 				ADB0E00222AFA6090030352D /* Main.storyboard */,
 				ADB0E00522AFA60E0030352D /* Assets.xcassets */,
-				ADB0E00722AFA60E0030352D /* LaunchScreen.storyboard */,
 				ADB0E00A22AFA60E0030352D /* Info.plist */,
+				ADB0E00722AFA60E0030352D /* LaunchScreen.storyboard */,
 			);
 			path = "Dicee-iOS13";
 			sourceTree = "<group>";
